@@ -1,4 +1,4 @@
-# Máximo | Ciberseguridad Defensiva, Redes & Cloud 🌐🔒
+# Máximo | Ciberseguridad Defensiva · Redes · Cloud 🌐🔒
 
 📍 **Buenos Aires, Argentina** | [LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)
 
@@ -15,9 +15,9 @@ Este GitHub es mi espacio para documentar proyectos, laboratorios y cosas que vo
 ### 🎓 Formación & Bases Técnicas
 A lo largo de la carrera fui construyendo bases en distintas áreas que hoy me ayudan a entender mejor tanto el desarrollo como la infraestructura:
 
-* **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y fundamentos de seguridad ofensiva..
+* **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y fundamentos de seguridad ofensiva.
 * **Infraestructura & Datos:** Redes de Datos, Sistemas Operativos, SQL/NoSQL y Arquitectura de Software.
-* **Desarrollo Seguro:** Programación Orientada a Objetos, Desarrollo Web y Móvil, y Técnicas de Codificación Segura.
+* **Desarrollo:** Programación Orientada a Objetos, Desarrollo Web y Móvil, y Técnicas de Codificación Segura.
 
 ---
 
