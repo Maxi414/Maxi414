@@ -3,9 +3,18 @@
 📍 **Buenos Aires, Argentina** | [LinkedIn](#)
 
 ### 👤 Sobre mí
-Soy estudiante avanzado de **Ingeniería en Sistemas** con un fuerte enfoque en la infraestructura segura y la nube. Actualmente me encuentro preparando la certificación internacional **CompTIA Security+** (fecha de examen: Julio 2026). 
+Soy estudiante avanzado de la **Licenciatura en Gestión de Tecnología de la Información** con un fuerte enfoque en la infraestructura segura y la nube. Actualmente me encuentro preparando la certificación internacional **CompTIA Security+** (fecha de examen: Julio 2026). 
 
 Mi objetivo a mediano plazo es desarrollarme como **Cloud Security Architect**, especializándome en el diseño de redes, hardening de sistemas operativos y controles técnicos defensivos. No busco romper cosas, busco blindarlas.
+
+---
+
+### 🎓 Formación Académica & Fundamentos Clave
+Como estudiante avanzado, poseo bases sólidas en arquitectura de software y hardware, respaldadas por mi currícula universitaria:
+* **Seguridad:** Seguridad e Integridad de la Información | Seguridad de Procesos y Aplicaciones.
+* **Infraestructura & Redes:** Redes de Datos | Sistemas Operativos | Arquitectura de Computadores.
+* **Desarrollo & Datos:** Ingeniería de Software | Ingeniería de Datos | Diseño y Análisis de Algoritmos.
+* **Gestión (Soft Skills):** Dirección de Proyectos de Tecnología.
 
 ---
 
@@ -34,4 +43,4 @@ Mi objetivo a mediano plazo es desarrollarme como **Cloud Security Architect**, 
 - ⏳ **Mini-SOC Casero: Monitoreo e Incidentes (Wazuh)** - *Programado (Octubre)*
 
 ---
-*✉️ Podés contactarme a través de mi [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)](#).*
+*✉️ Podés contactarme a través de mi [LinkedIn](#).*
