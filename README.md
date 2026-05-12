@@ -1,16 +1,20 @@
 # Máximo | Enfoque en Ciberseguridad & Redes 🌐🔒
 
-📍 **Buenos Aires, Argentina** | [LinkedIn](#)
+📍 **Buenos Aires, Argentina** | [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)].*
 
 ### 👤 Sobre mí
-Soy estudiante avanzado de la **Licenciatura en Gestión de Tecnología de la Información** con un fuerte enfoque en la infraestructura segura y la nube. Actualmente me encuentro preparando la certificación internacional **CompTIA Security+** (fecha de examen: Julio 2026). 
+Soy estudiante avanzado de la Licenciatura en Gestión de Tecnología de la Información, con un interés fuerte en ciberseguridad defensiva, redes e infraestructura.
 
-Mi objetivo a mediano plazo es desarrollarme como **Cloud Security Architect**, especializándome en el diseño de redes, hardening de sistemas operativos y controles técnicos defensivos. No busco romper cosas, busco blindarlas.
+Actualmente me encuentro preparándome para rendir la certificación CompTIA Security+ (Julio 2026) mientras sigo profundizando en temas relacionados con seguridad en cloud, hardening de sistemas, networking y monitoreo.
 
+Me interesa especialmente el lado defensivo de la seguridad: entender cómo funcionan los entornos, detectar riesgos y fortalecer infraestructura. Más que romper cosas, me interesa aprender a protegerlas y diseñarlas de forma segura.
+
+Este GitHub es mi espacio para documentar proyectos, laboratorios y cosas que voy aprendiendo en el camino.
 ---
 
 ### 🎓 Formación Académica & Fundamentos Clave
-Mi plan de estudios universitario me otorgó una visión integral del ciclo de vida del software, permitiéndome asegurar aplicaciones entendiendo cómo fueron construidas desde sus cimientos:
+A lo largo de la carrera fui construyendo bases en distintas áreas que hoy me ayudan a entender mejor tanto el desarrollo como la infraestructura:
+
 * **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y Pruebas de Intrusión.
 * **Arquitectura de Software:** Patrones de Diseño, Arquitectura Orientada a Servicios (SOA), MVC y Desarrollo Guiado por Pruebas (TDD).
 * **Infraestructura & Datos:** Redes de Datos, Sistemas Operativos (Gestión de memoria/procesos), Motores SQL y NoSQL.
@@ -48,11 +52,10 @@ Mi plan de estudios universitario me otorgó una visión integral del ciclo de v
 ---
 
 ### 🚀 Proyectos y Laboratorios Tácticos
-*En este espacio iré documentando los "Write-ups" de mis laboratorios prácticos de infraestructura:*
-
+Voy a ir documentando laboratorios prácticos, entornos y proyectos relacionados con infraestructura y seguridad:
 - ⏳ **Búnker Local (Hardening de Linux & UFW)** - *Programado (Junio)*
 - ⏳ **La Fortaleza en la Nube (Diseño de AWS VPC + IAM)** - *Programado (Agosto)*
 - ⏳ **Mini-SOC Casero: Monitoreo e Incidentes (Wazuh)** - *Programado (Octubre)*
 
 ---
-*✉️ Podés contactarme a través de mi [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)](#).*
+*✉️ Podés contactarme a través de mi [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)].*
