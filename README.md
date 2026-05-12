@@ -1,6 +1,6 @@
-# Máximo | Ciberseguridad Defensiva | Redes & Cloud 🌐🔒
+# Máximo | Ciberseguridad Defensiva, Redes & Cloud 🌐🔒
 
-📍 **Buenos Aires, Argentina** | [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)].
+📍 **Buenos Aires, Argentina** | [LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)
 
 ### 👤 Sobre mí
 Soy estudiante avanzado de la Licenciatura en Gestión de Tecnología de la Información, con un interés fuerte en ciberseguridad defensiva, redes e infraestructura.
@@ -15,9 +15,8 @@ Este GitHub es mi espacio para documentar proyectos, laboratorios y cosas que vo
 ### 🎓 Formación & Bases Técnicas
 A lo largo de la carrera fui construyendo bases en distintas áreas que hoy me ayudan a entender mejor tanto el desarrollo como la infraestructura:
 
-* **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y Pruebas de Intrusión.
-* **Arquitectura de Software:** Patrones de Diseño, Arquitectura Orientada a Servicios (SOA), MVC y Desarrollo Guiado por Pruebas (TDD).
-* **Infraestructura & Datos:** Redes de Datos, Sistemas Operativos, Redes, SQL/NoSQL y Arquitectura de Software.
+* **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y fundamentos de seguridad ofensiva..
+* **Infraestructura & Datos:** Redes de Datos, Sistemas Operativos, SQL/NoSQL y Arquitectura de Software.
 * **Desarrollo Seguro:** Programación Orientada a Objetos, Desarrollo Web y Móvil, y Técnicas de Codificación Segura.
 
 ---
@@ -32,7 +31,7 @@ A lo largo de la carrera fui construyendo bases en distintas áreas que hoy me a
 
 **Ciberseguridad & Nube (En Progreso)**
 
-![CompTIA Sec+](https://img.shields.io/badge/CompTIA_Security+_(Julio_2026)-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **Bases de Datos (Relacional & NoSQL)**
@@ -58,4 +57,3 @@ Voy a ir documentando laboratorios prácticos, entornos y proyectos relacionados
 - ⏳ **Mini-SOC Casero: Monitoreo e Incidentes (Wazuh)** - *Programado (Octubre)*
 
 ---
-*✉️ También podés encontrarme en LinkedIn. [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)].
