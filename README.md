@@ -1,6 +1,6 @@
 # Máximo | Enfoque en Ciberseguridad & Redes 🌐🔒
 
-📍 **Buenos Aires, Argentina** | [LinkedIn]https://www.linkedin.com/in/bonarrico-maximo/(#)
+📍 **Buenos Aires, Argentina** | [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)](#)
 
 ### 👤 Sobre mí
 Soy estudiante avanzado de la **Licenciatura en Gestión de Tecnología de la Información** con un fuerte enfoque en la infraestructura segura y la nube. Actualmente me encuentro preparando la certificación internacional **CompTIA Security+** (fecha de examen: Julio 2026). 
@@ -51,4 +51,4 @@ Como estudiante avanzado, poseo bases sólidas en arquitectura de software y har
 - ⏳ **Mini-SOC Casero: Monitoreo e Incidentes (Wazuh)** - *Programado (Octubre)*
 
 ---
-*✉️ Podés contactarme a través de mi [LinkedIn]https://www.linkedin.com/in/bonarrico-maximo/(#).*
+*✉️ Podés contactarme a través de mi [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)](#).*
