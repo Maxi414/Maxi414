@@ -1,6 +1,6 @@
 # Máximo | Enfoque en Ciberseguridad & Redes 🌐🔒
 
-📍 **Buenos Aires, Argentina** | [[LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)](#)
+📍 **Buenos Aires, Argentina** | [LinkedIn](#)
 
 ### 👤 Sobre mí
 Soy estudiante avanzado de la **Licenciatura en Gestión de Tecnología de la Información** con un fuerte enfoque en la infraestructura segura y la nube. Actualmente me encuentro preparando la certificación internacional **CompTIA Security+** (fecha de examen: Julio 2026). 
@@ -10,11 +10,11 @@ Mi objetivo a mediano plazo es desarrollarme como **Cloud Security Architect**, 
 ---
 
 ### 🎓 Formación Académica & Fundamentos Clave
-Como estudiante avanzado, poseo bases sólidas en arquitectura de software y hardware, respaldadas por mi currícula universitaria:
-* **Seguridad:** Seguridad e Integridad de la Información | Seguridad de Procesos y Aplicaciones.
-* **Infraestructura & Redes:** Redes de Datos | Sistemas Operativos | Arquitectura de Computadores.
-* **Desarrollo & Datos:** Ingeniería de Software | Ingeniería de Datos (SQL, NoSQL, Grafos) | Diseño y Análisis de Algoritmos.
-* **Gestión (Soft Skills):** Dirección de Proyectos de Tecnología.
+Mi plan de estudios universitario me otorgó una visión integral del ciclo de vida del software, permitiéndome asegurar aplicaciones entendiendo cómo fueron construidas desde sus cimientos:
+* **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y Pruebas de Intrusión.
+* **Arquitectura de Software:** Patrones de Diseño, Arquitectura Orientada a Servicios (SOA), MVC y Desarrollo Guiado por Pruebas (TDD).
+* **Infraestructura & Datos:** Redes de Datos, Sistemas Operativos (Gestión de memoria/procesos), Motores SQL y NoSQL.
+* **Desarrollo Seguro:** Programación Orientada a Objetos, Desarrollo Web y Móvil, y Técnicas de Codificación Segura.
 
 ---
 
