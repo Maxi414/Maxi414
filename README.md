@@ -52,9 +52,9 @@ A lo largo de la carrera fui construyendo bases en distintas áreas que hoy me a
 
 ### 🚀 Proyectos & Laboratorios
 Voy a ir documentando laboratorios prácticos, entornos y proyectos relacionados con infraestructura y seguridad:
-✅ Network Audit Lab (Nmap + Nessus) — Completado · https://github.com/Maxi414/network-audit-lab
-✅ Linux Hardening — OS Bunker — Completado · https://github.com/Maxi414/linux-hardening-lab
-⏳ Cloud Security (AWS) — En progreso
-⏳ Mini-SOC (Wazuh) — Planeado
+* ✅ **Network Audit Lab** (Nmap + Nessus) — *Completado* · [Ver repo](https://github.com/Maxi414/network-audit-lab)
+* ✅ **Linux Hardening — OS Bunker** — *Completado* · [Ver repo](https://github.com/Maxi414/linux-hardening-lab)
+* ⏳ **Cloud Security** (AWS VPC + IAM) — *En progreso*
+* ⏳ **Mini-SOC Casero** (Wazuh) — *Planeado*
 
 ---
