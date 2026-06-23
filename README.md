@@ -1,60 +1,70 @@
-# Máximo | Ciberseguridad Defensiva · Redes · Cloud 🌐🔒
+# Máximo Bona | Defensive Security · Cloud · Infrastructure
 
-📍 **Buenos Aires, Argentina** | [LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/)
-
-### 👤 Sobre mí
-Soy estudiante avanzado de la Licenciatura en Gestión de Tecnología de la Información, con un interés fuerte en ciberseguridad defensiva, redes e infraestructura.
-
-Actualmente me encuentro preparándome para rendir la certificación CompTIA Security+ (Julio 2026) mientras sigo profundizando en temas relacionados con seguridad en cloud, hardening de sistemas, networking y monitoreo.
-
-Me interesa especialmente el lado defensivo: entender cómo funcionan los entornos, detectar riesgos y fortalecer infraestructura.
-
-Este GitHub es mi espacio para documentar proyectos, laboratorios y cosas que voy aprendiendo en el camino.
----
-
-### 🎓 Formación & Bases Técnicas
-A lo largo de la carrera fui construyendo bases en distintas áreas que hoy me ayudan a entender mejor tanto el desarrollo como la infraestructura:
-
-* **Ciberseguridad Defensiva:** Criptografía, VPNs, IDS (Detección de Intrusos), Análisis de Vulnerabilidades (Web/Infraestructura) y fundamentos de seguridad ofensiva.
-* **Infraestructura & Datos:** Redes de Datos, Sistemas Operativos, SQL/NoSQL y Arquitectura de Software.
-* **Desarrollo:** Programación Orientada a Objetos, Desarrollo Web y Móvil, y Técnicas de Codificación Segura.
+📍 Buenos Aires, Argentina
+🔗 [LinkedIn](https://www.linkedin.com/in/bonarrico-maximo/) · [Portfolio](https://maxi414.github.io)
 
 ---
 
-### 🛠️ Stack Tecnológico & Herramientas
+## About me
 
-**Sistemas, Redes & Contenedores**
+I am an IT Management student focused on defensive cybersecurity, cloud security, infrastructure and networking.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+I build hands-on security labs where I document the full process: environment setup, methodology, validation evidence, findings, hardening decisions and lessons learned.
 
-**Ciberseguridad & Nube (En Progreso)**
+My current focus is on:
 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+* Defensive security and infrastructure hardening
+* Vulnerability assessment and remediation
+* Linux security
+* AWS cloud security
+* Infrastructure as Code with Terraform
+* Monitoring, logging and detection
 
-**Bases de Datos (Relacional & NoSQL)**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**Desarrollo & Versionado**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I am currently preparing for the CompTIA Security+ (SY0-701) certification while continuing to build practical labs around cloud security, SIEM, network security and defensive operations.
 
 ---
 
-### 🚀 Proyectos & Laboratorios
-Voy a ir documentando laboratorios prácticos, entornos y proyectos relacionados con infraestructura y seguridad:
-* ✅ **Network Audit Lab** (Nmap + Nessus) — *Completado* · [Ver repo](https://github.com/Maxi414/network-audit-lab)
-* ✅ **Linux Hardening — OS Bunker** — *Completado* · [Ver repo](https://github.com/Maxi414/linux-hardening-lab)
-* ⏳ **Cloud Security** (AWS VPC + IAM) — *En progreso*
-* ⏳ **Mini-SOC Casero** (Wazuh) — *Planeado*
+## Featured Labs
+
+### Cloud Security Lab: AWS IAM, S3 & CloudTrail Hardening
+
+Hardening of a clean AWS account across identity, data protection and audit logging. Provisioned with Terraform, validated with the AWS CLI, tested with simulated attacks and scanned with Checkov in GitHub Actions.
+[View repository](https://github.com/Maxi414/aws-iam-s3-cloudtrail-hardening)
+
+### Linux Hardening Lab: OS Bunker
+
+Defensive hardening of a Linux server with focus on reducing attack surface, securing services, auditing, integrity monitoring and documenting practical system-hardening decisions.
+[View repository](https://github.com/Maxi414/linux-hardening-lab)
+
+### Network Audit Lab
+
+Network vulnerability assessment lab using Kali Linux, Nmap and Nessus against Metasploitable 2 in an isolated VirtualBox environment. Includes enumeration, vulnerability correlation and remediation recommendations.
+[View repository](https://github.com/Maxi414/network-audit-lab)
 
 ---
+
+## Technical Focus
+
+**Security:** Defensive security, vulnerability assessment, hardening, IAM, logging, audit trails
+**Cloud & IaC:** AWS, Terraform, Checkov, GitHub Actions
+**Systems & Networks:** Linux, networking, VirtualBox, basic Cisco networking
+**Tools:** Nmap, Nessus, AWS CLI, Git, Python, PowerShell
+
+---
+
+## Current roadmap
+
+* SIEM lab with Wazuh
+* AWS VPC security lab
+* Security+ certification preparation
+* More defensive security labs with documented evidence
+
+---
+
+## Contact
+
+I am open to junior / trainee opportunities in cybersecurity, infrastructure, cloud security and networking.
+
+* Portfolio: [maxi414.github.io](https://maxi414.github.io)
+* LinkedIn: [linkedin.com/in/bonarrico-maximo](https://www.linkedin.com/in/bonarrico-maximo/)
+* GitHub: [github.com/Maxi414](https://github.com/Maxi414)
