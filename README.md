@@ -50,9 +50,13 @@ Network vulnerability assessment lab using Kali Linux, Nmap and Nessus against M
 ## Technical Focus
  
 **Security:** Defensive security, threat detection, vulnerability assessment, hardening, IAM, logging, audit trails, phishing simulation, social engineering
+
 **Detection & Response:** SIEM (Wazuh), MITRE ATT&CK, detection engineering, log analysis
+
 **Cloud & IaC:** AWS, Terraform, Checkov, GitHub Actions
+
 **Systems & Networks:** Linux, networking, VirtualBox, basic Cisco networking
+
 **Tools:** Nmap, Nessus, GoPhish, Nginx, theHarvester, Wazuh, AWS CLI, Git, Python, PowerShell
  
 ---
